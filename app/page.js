@@ -1,5 +1,5 @@
-import Card from './components/card'
-import Bar from './components/bar'
+import Card from '@/styles/card.module.css'
+import Bar from '@/styles/bar.module.css'
 import styles from '@/styles/home.module.css'
 
 
