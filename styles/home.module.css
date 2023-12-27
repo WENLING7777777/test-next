@@ -1,0 +1,28 @@
+.container {
+height: 100％;
+width: 100%;
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 6px;
+    
+}
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    position: relative; 
+    margin-top: 130px;
+}
+.cardG {
+    display: flex;
+    width: 350px;
+    padding: 20px 20px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 15px 20px;
+    flex-wrap: wrap;
+    margin-top: 20px; 
+}
